@@ -3,6 +3,7 @@ public class learning {
 	public static void main (String[]args) {
 		System.out.println("This is a quadratic equation solver. To use it, type in the coefficients of the quadratic equation you want to solve. For example, if you wanted to find the solutions to the equation 3x^2+5x+8, you would type 3,5, and 8 into the console.");
 		System.out.println("Hello world");
+		System.out.println("Bye world");
 		Scanner sc = new Scanner(System.in);
 		String a=sc.next();
 		String b=sc.next();
